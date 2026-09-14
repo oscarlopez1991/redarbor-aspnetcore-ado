@@ -49,7 +49,7 @@ Base route: `/api/redarbor`
 
 ```bash
 # Clone the repository
-git clone https://github.com/oscarlopez1991/redarbor-aspnetcore-ado.git
+git clone https://github.com/oscar-lopez-dev/redarbor-aspnetcore-ado.git
 cd redarbor-aspnetcore-ado
 
 # Run database setup scripts (located in scripts/)
